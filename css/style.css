@@ -99,7 +99,14 @@ body {
 	-webkit-box-shadow: 5px 10px 38px rgba(242, 247, 252, 0.8);
 }
 
-.title_about-me {
+.title_personal-summary,
+.title_objective,
+.title_projects,
+.title_experience,
+.title_education,
+.title_add-education,
+.title_certificate,
+.title_language {
 	background:linear-gradient(90deg, #4b5866, #f2f7fc);
 }
 .experience__text_description,
