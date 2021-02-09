@@ -44,6 +44,7 @@ body {
 }
 .title_main {
     font-size: 34px;
+    display: block;
 }
 .text {
     font-size: 18px;
@@ -97,14 +98,8 @@ body {
 	box-shadow: 5px 10px 38px rgba(242, 247, 252, 0.8);
 	-webkit-box-shadow: 5px 10px 38px rgba(242, 247, 252, 0.8);
 }
-.title_personal-summary,
-.title_objective,
-.title_projects,
-.title_experience,
-.title_education,
-.title_add-education,
-.title_certificate,
-.title_language {
+
+.title_about-me {
 	background:linear-gradient(90deg, #4b5866, #f2f7fc);
 }
 .experience__text_description,
